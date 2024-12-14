@@ -17,6 +17,7 @@ Source0:        %{name}-%{version}.tar.gz
 Requires:       ros-jazzy-ament-cmake
 Requires:       ros-jazzy-ament-cmake-gmock
 Requires:       ros-jazzy-ament-cmake-gtest
+BuildRequires:  ros-jazzy-gmock-vendor
 BuildRequires:  ros-jazzy-ament-cmake
 BuildRequires:  ros-jazzy-ament-cmake-gmock
 BuildRequires:  ros-jazzy-ament-cmake-gtest
